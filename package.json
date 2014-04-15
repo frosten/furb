@@ -29,8 +29,5 @@
 		"url": "https://github.com/frosten/furb/issues"
 	},
 	"homepage": "https://github.com/frosten/furb",
-	"_id": "furb@0.1.0",
-	"dist": {
-		"shasum": "54c03908b9e3e208c33bb4d246c8eb804b8b8d91"
-	}
+	"_id": "furb@0.1.0"
 }
