@@ -1,0 +1,10 @@
+{
+    "name": "The Furb API",
+    "description": "The Furb API: a library for socket & web server communication for mobile client",
+    "version": "0.1.0",
+    "url": "http://furb.com/",
+    "options": {
+        "outdir": "./apidocs/",
+		"paths": ["./core"]
+    }
+}

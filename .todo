@@ -1,0 +1,7 @@
+{
+    "search": {
+        "scope": "current",
+		  "excludeFiles": [ ".json", "run.bat"  ],
+		  "excludeFolder": [ "node_modules" , "formidable" ,"readable-stream", "irrelevant"] 
+    }
+}

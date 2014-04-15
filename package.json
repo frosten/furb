@@ -1,0 +1,36 @@
+{
+	"author": {
+		"name": "S. Ferit Arslan",
+		"email": "feritarslan@gmail.com"
+	},
+	"contributors": [],
+	"name": "furb",
+	"description": "instant messaging for everywhere",
+	"version": "0.1.0",
+	"repository": {
+		"url": "https://github.com/frosten/furb"
+	},
+	"main": "furb.js",
+	"engines": {
+		"node": "*"
+	},
+	"dependencies": {
+		"formidable": "1.0.14",
+		"imagemagick": "0.1.3",
+		"mongodb": "1.3.19",
+		"thunky": "0.1.0",
+		"readable-stLICENCEream": "1.1.10",
+		"json-stream": "0.2.0",
+		"timeago": "0.1.0"
+	},
+	"devDependencies": {},
+	"readmeFilename": "README.md",
+	"bugs": {
+		"url": "https://github.com/frosten/furb/issues"
+	},
+	"homepage": "https://github.com/frosten/furb",
+	"_id": "furb@0.1.0",
+	"dist": {
+		"shasum": "54c03908b9e3e208c33bb4d246c8eb804b8b8d91"
+	}
+}
