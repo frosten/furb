@@ -10,4 +10,4 @@ Open mongo;
     mongod --dbpath "path_of_database" --port 8365 
 
 Execute;
-   run.bat in irrelevent folder.
+   run.bat in irrelevant folder.
