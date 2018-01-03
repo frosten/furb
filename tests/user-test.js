@@ -120,12 +120,12 @@
 	];
 
 	var arr_mail = [
-		"Nilay@Akhan.com",
-		"Canan@Klein.com",
-		"Ceren@Mata.com",
+		"a@b.com",
+		"c@d.com",
+		"e@f.com",
 		"Burak@Hatckinson.com",
 		"Can@Nelson.com",
-		"Cağla@Jenkins.com",
+		"x@Jenkins.com",
 		"Lionel@Ellis.com",
 		"Madonna@Walker.com"
 
